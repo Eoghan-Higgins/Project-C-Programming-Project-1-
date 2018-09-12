@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1520586217 source:c:\users\r00069410\downloads\useful.c
+
+1521196962 source:h:\year _2\c programming\labs\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"useful.h"
+	"pal.h"
+
+1520586217 source:h:\year _2\c programming\labs\project\useful.c
+
+1521197177 source:h:\year _2\c programming\labs\project\pal.c
+	"useful.h"
+
+1520586211 h:\year _2\c programming\labs\project\useful.h
+
+1521195702 h:\year _2\c programming\labs\project\pal.h
+
+1523582626 source:h:\c programming\labs\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"useful.h"
+	"pal.h"
+
+1520586212 h:\c programming\labs\project\useful.h
+
+1521799774 h:\c programming\labs\project\pal.h
+
+1521795900 source:h:\c programming\labs\project\useful.c
+	<stdio.h>
+
+1523582528 source:h:\c programming\labs\project\pal.c
+	"useful.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1523611438 source:e:\c programming\labs\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"useful.h"
+	"pal.h"
+
+1520586212 e:\c programming\labs\project\useful.h
+
+1521799774 e:\c programming\labs\project\pal.h
+
+1523611440 source:e:\c programming\labs\project\pal.c
+	"useful.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1521795900 source:e:\c programming\labs\project\useful.c
+	<stdio.h>
+
